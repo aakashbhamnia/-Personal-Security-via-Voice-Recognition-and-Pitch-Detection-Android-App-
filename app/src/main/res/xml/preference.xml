@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="Sender_email"
+        android:title="Sender_email "
+        android:summary="Enter your example text here"
+        android:defaultValue="xyz@gmail.com"
+        android:inputType="text" />
+    <EditTextPreference
+        android:key="Sender_email_password"
+        android:title="Sender_email_password "
+        android:summary="Enter your Sender_email_password"
+        android:defaultValue="password"
+        android:inputType="text" />
+    <EditTextPreference
+        android:key="Reciver_Email_Address"
+        android:title="Reciver_Email_Address "
+        android:summary="Enter your Reciver_Email_Address"
+        android:defaultValue="xyz@gmail.com"
+        android:inputType="text" />
+
+    <EditTextPreference
+        android:key="count"
+        android:title="number of time to run recording"
+        android:summary="count"
+        android:defaultValue="3"
+        android:inputType="number" />
+
+    <EditTextPreference
+        android:key="duration"
+        android:title="amount to record video in second"
+        android:summary="Duration"
+        android:defaultValue="5"
+        android:inputType="number" />
+    <EditTextPreference
+        android:key="subject"
+        android:title="subject of mail"
+        android:summary="Enter subject of mail"
+        android:defaultValue="Default Text"
+        android:inputType="text" />
+    <EditTextPreference
+        android:key="text"
+        android:title="Text in main "
+        android:summary="Enter main text"
+        android:defaultValue="Default Text"
+        android:inputType="text" />
+    <EditTextPreference
+        android:key="keyword"
+        android:title="select keyword "
+        android:summary="Enter keyword"
+        android:defaultValue="open"
+        android:inputType="text" />
+    <EditTextPreference
+        android:key="pitch"
+        android:title="select the minimum pitch difference"
+        android:summary="enter the picth difference you want "
+        android:defaultValue="0"
+        android:inputType="number" />
+
+   <!-- <SwitchPreferenceCompat
+        android:key="example_switch"
+        android:title="select service"
+        android:summary="disable (keyword) and enable(pitch)"
+        android:defaultValue="false" />-->
+</PreferenceScreen>
