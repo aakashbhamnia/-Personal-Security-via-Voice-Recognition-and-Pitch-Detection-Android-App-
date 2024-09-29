@@ -19,7 +19,7 @@ This Android application enhances personal security by using voice recognition a
 
 1. Clone the repository:
    ```bash
-       git clone [https://github.com/your-username/Personal-Security-App.git](https://github.com/aakashbhamnia/-Personal-Security-via-Voice-Recognition-and-Pitch-Detection-Android-App-)
+       git clone [https://github.com/aakashbhamnia/Personal-Security-App.git](https://github.com/aakashbhamnia/-Personal-Security-via-Voice-Recognition-and-Pitch-Detection-Android-App-)
 
 
 
