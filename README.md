@@ -63,10 +63,7 @@ This Android application enhances personal security by using voice recognition a
 - **Cloud Storage**: Adding support for cloud storage platforms like Google Drive or Dropbox for video uploads.
 - **Real-time Streaming**: Implementing real-time video streaming capabilities.
 - **Cross-Platform Compatibility**: Expanding the app to other platforms such as iOS.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+E](LICENSE) file for details.
 
 ```
 
